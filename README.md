@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**andreFelipeHFuck/andreFelipeHFuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o André Felipe 👋
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação na Universidade do Estado de Santa Catarina (UDESC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Frontend Mentor](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.frontendmentor.io/home)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![André Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=andreFelipeHFuck&show_icons=true&theme=merko) 
+
+
+## Tecnologias do meu dia 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreFelipeHFuck&size_weight=0.5&count_weight=0.5)
